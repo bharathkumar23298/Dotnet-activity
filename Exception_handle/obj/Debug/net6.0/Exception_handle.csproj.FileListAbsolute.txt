@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Exception_handle\bin\Debug\net6.0\Exception_handle.exe
+C:\Users\Administrator\Desktop\Exception_handle\bin\Debug\net6.0\Exception_handle.deps.json
+C:\Users\Administrator\Desktop\Exception_handle\bin\Debug\net6.0\Exception_handle.runtimeconfig.json
+C:\Users\Administrator\Desktop\Exception_handle\bin\Debug\net6.0\Exception_handle.dll
+C:\Users\Administrator\Desktop\Exception_handle\bin\Debug\net6.0\ref\Exception_handle.dll
+C:\Users\Administrator\Desktop\Exception_handle\bin\Debug\net6.0\Exception_handle.pdb
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.GlobalUsings.g.cs
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.dll
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\ref\Exception_handle.dll
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.pdb
+C:\Users\Administrator\Desktop\Exception_handle\obj\Debug\net6.0\Exception_handle.genruntimeconfig.cache
